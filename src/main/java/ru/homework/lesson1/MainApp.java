@@ -5,7 +5,7 @@ public class MainApp {
         int sum;
         //System.out.println("Hello world");
         //string();
-        //dia();
+        dia();
         //quadroDia();
         //quadroQuadro();
         System.out.println(rEturn());
